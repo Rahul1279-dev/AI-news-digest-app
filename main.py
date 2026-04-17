@@ -29,10 +29,7 @@ articles = content['articles']
 
 # AI summarizing the news
 prompt = f"""
-You are a news summarizer.
-Write a short paragraph analysing those news articles.
-And another second paragraph to let me know how they affect the stock market.
-Summarize the following news articles:
+Highlight the key points and make it readable:
 {articles}
 """
 
