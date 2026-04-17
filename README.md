@@ -194,7 +194,6 @@ MIT License
 
 ## 👤 Author
 
-Your Name
-[LinkedIn] | [GitHub]
+Rahul Das
 
 ---
